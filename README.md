@@ -22,3 +22,5 @@ The Movie Seat Booking System is a web application designed to facilitate the bo
 4. Click on available seats to select them.
 5. Click the "Book Now" button to confirm the booking.
 6. Receive a booking confirmation with details on the number of seats booked and total price.
+
+![Screenshot 2024-03-16 135207](https://github.com/NatharaIqbal/Movie-Theater-Seat-Booking-System/assets/138295014/c886290b-c783-4232-be4a-c74781947813)
