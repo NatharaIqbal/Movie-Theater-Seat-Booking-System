@@ -1,6 +1,6 @@
 # Movie-Seat-Booking-System
 
-Movie Seat Booking System
+Movie Seat Booking System -
 The Movie Seat Booking System is a web application designed to facilitate the booking of movie theater seats. Users can select their desired movie from a dropdown menu, choose seats visually displayed on the screen, and book them with real-time updates on seat availability and pricing.
 
 ## Features
